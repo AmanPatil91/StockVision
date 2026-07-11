@@ -1,0 +1,19 @@
+"use client";
+
+import { ReactNode } from "react";
+
+import { QueryProvider } from "@/providers/query-provider";
+import { ThemeProvider } from "@/providers/theme-provider";
+
+type AppProvidersProps = {
+  children: ReactNode;
+};
+
+export function AppProviders({ children }: AppProvidersProps) {
+  return (
+    <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
+      <QueryProvider>{children}</QueryProvider>
+    </ThemeProvider>
+  );
+}
+

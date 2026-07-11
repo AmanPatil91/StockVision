@@ -1,0 +1,11 @@
+INFO:     127.0.0.1:51070 - "GET /api/v1/health/ HTTP/1.1" 200 OK
+        INFO:     127.0.0.1:53718 - "GET /api/v1/stocks/RELIANCE HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53719 - "GET /api/v1/market/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53721 - "GET /api/v1/technical/signals/AAPL HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53722 - "GET /api/v1/technical/signals/TCS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53723 - "GET /api/v1/technical/signals/INFY HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53725 - "GET /api/v1/technical/signals/HDFCBANK HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /api/v1/technical/RELIANCE HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54924 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54924 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+ 

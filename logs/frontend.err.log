@@ -1,0 +1,72 @@
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\server\vendor-chunks\lucide-react.js'
+    at <unknown> (C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\server\app\(dashboard)\page.js:883:47)
+    at Object.<anonymous> (C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\server\app\(dashboard)\page.js:886:3) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\server\\vendor-chunks\\lucide-react.js',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\routes-manifest.json'
+}
+Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\server\vendor-chunks\lucide-react.js'
+    at <unknown> (C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\server\app\(dashboard)\page.js:883:47)
+    at Object.<anonymous> (C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\server\app\(dashboard)\page.js:886:3) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\server\\vendor-chunks\\lucide-react.js',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\patil\OneDrive\Documents\stockvision\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\patil\\OneDrive\\Documents\\stockvision\\apps\\web\\.next\\routes-manifest.json'
+}

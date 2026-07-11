@@ -1,0 +1,68 @@
+
+> stockvision@0.1.0 dev:web
+> npm run dev --workspace @stockvision/web
+
+
+> @stockvision/web@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.19
+   - Local:        http://localhost:3000
+   - Network:      http://10.247.207.251:3000
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+ ✓ Starting...
+ ✓ Ready in 5.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 11.1s (1795 modules)
+ GET / 200 in 12026ms
+ GET / 200 in 352ms
+ GET / 200 in 257ms
+ GET / 200 in 267ms
+ ○ Compiling /stocks/[ticker] ...
+ ✓ Compiled /stocks/[ticker] in 3s (1827 modules)
+ GET / 200 in 658ms
+ GET / 200 in 137ms
+ GET /stocks/RELIANCE 200 in 4842ms
+ GET /stocks/RELIANCE 200 in 141ms
+ GET /stocks/RELIANCE 200 in 102ms
+ GET /stocks/RELIANCE 200 in 84ms
+ ○ Compiling /markets ...
+ ✓ Compiled /markets in 1028ms (1818 modules)
+ GET /markets 200 in 1350ms
+ ○ Compiling /watchlist ...
+ ✓ Compiled /watchlist in 1062ms (1823 modules)
+ GET /watchlist 200 in 1304ms
+ GET /watchlist 200 in 138ms
+ GET / 200 in 133ms
+ GET /stocks/RELIANCE 200 in 118ms
+ GET /stocks/RELIANCE 200 in 1216ms
+ ✓ Compiled in 1104ms (840 modules)
+ GET /stocks/RELIANCE 200 in 185ms
+ ✓ Compiled in 845ms (840 modules)
+ GET / 200 in 571ms
+ GET /stocks/RELIANCE 200 in 561ms
+ ✓ Compiled in 1626ms (840 modules)
+ ✓ Compiled in 769ms (840 modules)
+ ✓ Compiled in 710ms (840 modules)
+ ✓ Compiled in 713ms (840 modules)
+ ✓ Compiled in 2.3s (1837 modules)
+ ✓ Compiled in 2.6s (1839 modules)
+ ✓ Compiled in 1025ms (843 modules)
+ ✓ Compiled in 719ms (843 modules)
+ ✓ Compiled in 4.1s (1851 modules)
+ ✓ Compiled in 2.4s (1851 modules)
+ ✓ Compiled in 1441ms (1851 modules)
+ ✓ Compiled in 1295ms (1851 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 4.9s (1842 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 10s (2189 modules)
+ GET / 500 in 29647ms
+ GET / 500 in 425ms
+ GET / 500 in 1139ms
+ GET / 500 in 470ms
+ ✓ Compiled in 4.3s (2102 modules)
+ ✓ Compiled in 1562ms (2102 modules)
+[?25h
