@@ -56,10 +56,9 @@ export function StockDetailScreen({ ticker }: StockDetailScreenProps) {
         <div className="space-y-6">
           <QuickStatsPanel stock={stock} />
           <TechnicalSummaryCard ticker={stock.profile.ticker} />
-          <IndicatorPanel />
+          <IndicatorPanel ticker={stock.profile.ticker} />
         </div>
       </div>
     </div>
   );
 }
-
