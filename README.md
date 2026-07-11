@@ -1,0 +1,2 @@
+# StockVision
+Smart trading platform
